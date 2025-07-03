@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "675953047fa9c2c75190ae9e"
+  },
+  "filename": "5.jpg",
+  "description": "A refined monochrome outfit combining a classic black shirt with tailored white trousers, ideal for a modern city look",
+  "keywords": [
+    "black shirt",
+    "white trousers",
+    "minimalist fashion"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953047fa9c2c75190ae9f"
+  },
+  "filename": "3.jpg",
+  "description": "A soft, pastel dress featuring long sleeves and a flowy silhouette, styled with a matching handbag and heels.",
+  "keywords": [
+    "elegant dress",
+    "long sleeves",
+    "neutral tones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953057fa9c2c75190aea0"
+  },
+  "filename": "10.jpg",
+  "description": "A chic, monochromatic outfit with wide-leg white trousers and an asymmetrical sweater, accessorized with a small handbag",
+  "keywords": [
+    "white outfit",
+    "minimalist style",
+    "casual elegance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953057fa9c2c75190aea1"
+  },
+  "filename": "9.jpg",
+  "description": "A crisp, airy outfit combining stripes and neutrals, ideal for a light and polished summer look.",
+  "keywords": [
+    "striped shirt",
+    "white trousers",
+    "smart casual"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953067fa9c2c75190aea2"
+  },
+  "filename": "6.jpg",
+  "description": "A stylish yet comfortable outfit featuring earthy tones and a relaxed silhouette, perfect for a casual outing",
+  "keywords": [
+    "black top",
+    "brown trousers",
+    "casual chic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953067fa9c2c75190aea3"
+  },
+  "filename": "4.jpg",
+  "description": "A sophisticated green dress with a collared neckline and pleated details, emphasizing minimalistic elegance",
+  "keywords": [
+    "fashion",
+    "green dress",
+    "collared dress"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953077fa9c2c75190aea4"
+  },
+  "filename": "1.jpg",
+  "description": "A contemporary and professional outfit featuring neutral tones and tailored layers, perfect for urban sophistication.",
+  "keywords": [
+    "beige trench coat",
+    "white heels",
+    "neutral tones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953077fa9c2c75190aea5"
+  },
+  "filename": "8.jpg",
+  "description": "A preppy yet cozy outfit consisting of a tan oversized cardigan with a plaid pattern layered over a black top, paired with high-waisted black tailored trousers. The look is both comfortable and polished",
+  "keywords": [
+    "preppy style",
+    "oversized cardigan",
+    "plaid pattern"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953087fa9c2c75190aea6"
+  },
+  "filename": "7.jpg",
+  "description": "A laid-back, casual outfit featuring a forest green oversized sweater tucked into light blue straight-leg jeans, paired with white sneakers. Ideal for a relaxed, everyday look.",
+  "keywords": [
+    "casual outfit",
+    "green sweater",
+    "blue jeans"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953087fa9c2c75190aea7"
+  },
+  "filename": "2.jpg",
+  "description": "A sophisticated smart-casual look with a black sweater vest layered over a crisp white button-down shirt, styled with tailored beige trousers. A classic and versatile outfit suitable for work or casual outings.",
+  "keywords": [
+    "smart casual",
+    "sweater vest",
+    "white button-down shirt"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953087fa9c2c75190aea8"
+  },
+  "filename": "20.jpg",
+  "description": "A picturesque view of Manarola, a colorful village perched on a cliff overlooking the Mediterranean Sea in Cinque Terre, Italy.",
+  "keywords": [
+    "Manarola",
+    "Cinque Terre",
+    "Italy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953097fa9c2c75190aea9"
+  },
+  "filename": "16.jpg",
+  "description": "A majestic view of the Colosseum, a symbol of ancient Roman architecture and engineering, standing tall against a clear blue sky in Rome, Italy.",
+  "keywords": [
+    "Colosseum",
+    "Rome",
+    "Italy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953097fa9c2c75190aeaa"
+  },
+  "filename": "18.jpg",
+  "description": "A view of the Dambulla Cave Temple in Sri Lanka, showcasing the intricate Buddha statues and colorful murals inside the cave complex.",
+  "keywords": [
+    "Dambulla Cave Temple",
+    "Sri Lanka",
+    "Buddhist Art"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530a7fa9c2c75190aeab"
+  },
+  "filename": "17.jpg",
+  "description": "A majestic view of the Jetavanaramaya stupa, one of the largest Buddhist stupas in the world, located in Anuradhapura, Sri Lanka.",
+  "keywords": [
+    "Jetavanaramaya",
+    "Anuradhapura",
+    "Sri Lanka"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530a7fa9c2c75190aeac"
+  },
+  "filename": "11.jpg",
+  "description": "A breathtaking view of the Taj Mahal, a white marble mausoleum built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, in Agra, India.",
+  "keywords": [
+    "Taj Mahal",
+    "Agra",
+    "India"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530b7fa9c2c75190aead"
+  },
+  "filename": "14.jpg",
+  "description": "A line of majestic Moai statues stand tall against a backdrop of blue sky and ocean on Easter Island, Rapa Nui.",
+  "keywords": [
+    "Easter Island",
+    "Moai",
+    "Rapa Nui"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530b7fa9c2c75190aeae"
+  },
+  "filename": "19.jpg",
+  "description": "A majestic view of the Forbidden City, a vast palace complex in Beijing, China, showcasing its impressive architecture and grand scale.",
+  "keywords": [
+    "Forbidden City",
+    "Beijing",
+    "China"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530c7fa9c2c75190aeaf"
+  },
+  "filename": "12.jpg",
+  "description": "A breathtaking view of the ancient Inca citadel of Machu Picchu, nestled high in the Andes Mountains of Peru, with dramatic mountain peaks in the background.",
+  "keywords": [
+    "Machu Picchu",
+    "Inca Ruins",
+    "Peru"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530c7fa9c2c75190aeb0"
+  },
+  "filename": "13.jpg",
+  "description": "A tourist walks towards the iconic Great Sphinx of Giza and the Great Pyramid of Giza, two of the most famous ancient monuments in the world.",
+  "keywords": [
+    "Great Sphinx of Giza",
+    "Giza Necropolis",
+    "Pyramid of Giza"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530c7fa9c2c75190aeb1"
+  },
+  "filename": "15.jpg",
+  "description": "A close-up view of the iconic Caryatids, statues of women supporting the roof of the Erechtheion on the Acropolis of Athens.",
+  "keywords": [
+    "Caryatids",
+    "Erechtheion",
+    "Acropolis of Athens"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530d7fa9c2c75190aeb2"
+  },
+  "filename": "24.jpg",
+  "description": "A majestic Fallow Deer with large antlers, resting peacefully on a lush green meadow.",
+  "keywords": [
+    "Fallow Deer",
+    "Wildlife",
+    "Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530d7fa9c2c75190aeb3"
+  },
+  "filename": "21.jpg",
+  "description": "A cute red squirrel with a bushy tail, holding a nut in its paws.",
+  "keywords": [
+    "Red Squirrel",
+    "Squirrel",
+    "Wildlife"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530e7fa9c2c75190aeb4"
+  },
+  "filename": "26.jpg",
+  "description": "A vibrant green parakeet perched on a branch, enjoying a meal of red berries.",
+  "keywords": [
+    "Parakeet",
+    "Bird",
+    "Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530e7fa9c2c75190aeb5"
+  },
+  "filename": "27.jpg",
+  "description": "A beautiful brown horse standing on a grassy hill with mountains in the background.",
+  "keywords": [
+    "Horse",
+    "Animal",
+    "Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530f7fa9c2c75190aeb6"
+  },
+  "filename": "28.jpg",
+  "description": "A majestic tiger standing tall, showcasing its powerful build and striking stripes.",
+  "keywords": [
+    "Tiger",
+    "Big Cat",
+    "Wildlife"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759530f7fa9c2c75190aeb7"
+  },
+  "filename": "29.jpg",
+  "description": "A cute brown rabbit sitting on the grass, looking curious.",
+  "keywords": [
+    "Rabbit",
+    "Pet",
+    "Cute"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953107fa9c2c75190aeb8"
+  },
+  "filename": "23.jpg",
+  "description": "A majestic tiger with piercing eyes, looking directly at the camera.",
+  "keywords": [
+    "Tiger",
+    "Big Cat",
+    "Wildlife"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953107fa9c2c75190aeb9"
+  },
+  "filename": "25.jpg",
+  "description": "A majestic giraffe with distinctive patterns walking through the African savanna.",
+  "keywords": [
+    "Giraffe",
+    "African Wildlife",
+    "Savanna"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953117fa9c2c75190aeba"
+  },
+  "filename": "22.jpg",
+  "description": "A vibrant Red-breasted Parakeet perched on a branch, showcasing its beautiful plumage.",
+  "keywords": [
+    "Red-breasted Parakeet",
+    "Bird",
+    "Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953117fa9c2c75190aebb"
+  },
+  "filename": "30.jpg",
+  "description": "A majestic sea turtle gracefully swimming over a vibrant coral reef.",
+  "keywords": [
+    "Sea Turtle",
+    "Marine Life",
+    "Coral Reef"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953117fa9c2c75190aebc"
+  },
+  "filename": "38.jpg",
+  "description": "A captivating painting by John William Waterhouse depicting the tragic tale of the Lady of Shalott from Alfred, Lord Tennyson's poem. The artwork showcases the lady on a boat, weaving a tapestry as she succumbs to her fate.",
+  "keywords": [
+    "John William Waterhouse",
+    "The Lady of Shalott",
+    "Victorian art"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953127fa9c2c75190aebd"
+  },
+  "filename": "36.jpg",
+  "description": "A famous painting by Johannes Vermeer depicting a young girl wearing a pearl earring, known for its intricate details and use of light.",
+  "keywords": [
+    "Girl with a Pearl Earring",
+    "Johannes Vermeer",
+    "Dutch Golden Age"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953127fa9c2c75190aebe"
+  },
+  "filename": "39.jpg",
+  "description": "A vibrant painting by Pierre-Auguste Renoir depicting a group of friends enjoying a picnic by the Seine River, capturing the essence of Impressionism.",
+  "keywords": [
+    "Luncheon of the Boating Party",
+    "Pierre-Auguste Renoir",
+    "Impressionism"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953137fa9c2c75190aebf"
+  },
+  "filename": "32.jpg",
+  "description": "A famous painting by Diego Velázquez depicting the Spanish royal family in the Royal Palace of Madrid.",
+  "keywords": [
+    "Las Meninas",
+    "Diego Velázquez",
+    "Spanish Golden Age"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953137fa9c2c75190aec0"
+  },
+  "filename": "37.jpg",
+  "description": "A portrait of Lisa del Giocondo, painted by Leonardo da Vinci, known for its enigmatic smile and masterful technique.",
+  "keywords": [
+    "Mona Lisa",
+    "Leonardo da Vinci",
+    "Renaissance Painting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953147fa9c2c75190aec1"
+  },
+  "filename": "33.jpg",
+  "description": "A dramatic painting by Jacques-Louis David depicting Napoleon Bonaparte crossing the Alps on horseback, symbolizing his leadership and military prowess.",
+  "keywords": [
+    "Napoleon Bonaparte",
+    "Jacques-Louis David",
+    "Napoleonic Wars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953147fa9c2c75190aec2"
+  },
+  "filename": "34.jpg",
+  "description": "A serene painting by Claude Monet depicting a pond filled with water lilies and a Japanese bridge, capturing the essence of Impressionism.",
+  "keywords": [
+    "Claude Monet",
+    "Water Lilies",
+    "Impressionism"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953157fa9c2c75190aec3"
+  },
+  "filename": "31.jpg",
+  "description": "A vibrant and swirling depiction of a starry night sky over a small village, painted by Vincent van Gogh in his distinctive Post-Impressionist style.",
+  "keywords": [
+    "The Starry Night",
+    "Vincent van Gogh",
+    "Post-Impressionism"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953157fa9c2c75190aec4"
+  },
+  "filename": "35.jpg",
+  "description": "A playful and romantic painting by Jean-Honoré Fragonard depicting a young woman on a swing, surrounded by lush greenery and playful figures.",
+  "keywords": [
+    "The Swing",
+    "Jean-Honoré Fragonard",
+    "Rococo Painting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953157fa9c2c75190aec5"
+  },
+  "filename": "40.jpg",
+  "description": "A dramatic painting by Caravaggio depicting the moment when Jesus calls Matthew, a tax collector, to become one of his apostles.",
+  "keywords": [
+    "Caravaggio",
+    "The Calling of Saint Matthew",
+    "Baroque Painting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953167fa9c2c75190aec6"
+  },
+  "filename": "47.jpg",
+  "description": "A stunning golden Novitec N-Largo McLaren 720S, a high-performance supercar with aggressive bodywork and a powerful engine.",
+  "keywords": [
+    "Novitec N-Largo McLaren 720S",
+    "Supercar",
+    "Luxury"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953167fa9c2c75190aec7"
+  },
+  "filename": "41.jpg",
+  "description": "A white Porsche Taycan electric sports car speeding around a racetrack, showcasing its sleek design and powerful performance.",
+  "keywords": [
+    "Porsche Taycan",
+    "Electric car",
+    "Sports car"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953177fa9c2c75190aec8"
+  },
+  "filename": "42.jpg",
+  "description": "A sleek white Ferrari 458 Italia speeding around a racetrack, showcasing its powerful performance and iconic design.",
+  "keywords": [
+    "Ferrari 458 Italia",
+    "Supercar",
+    "Race Track"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953177fa9c2c75190aec9"
+  },
+  "filename": "49.jpg",
+  "description": "A sleek blue Bugatti Veyron, a high-performance supercar with a powerful engine and distinctive design.",
+  "keywords": [
+    "Bugatti Veyron",
+    "Supercar",
+    "Luxury"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953187fa9c2c75190aeca"
+  },
+  "filename": "48.jpg",
+  "description": "A vibrant orange Chevrolet Camaro concept car showcased at an auto show, with the iconic Chevrolet logo prominently displayed.",
+  "keywords": [
+    "Chevrolet Camaro Concept",
+    "Concept Car",
+    "Auto Show"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953187fa9c2c75190aecb"
+  },
+  "filename": "45.jpg",
+  "description": "A vibrant green Lamborghini Huracan EVO Spyder convertible, showcasing its sleek design and powerful performance.",
+  "keywords": [
+    "Lamborghini Huracan EVO Spyder",
+    "Supercar",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953197fa9c2c75190aecc"
+  },
+  "filename": "50.jpg",
+  "description": "An image showcasing the heritage of Ford Racing, featuring iconic models like the Ford Mustang SVT Cobra and Ford Mustang Cobra Jet.",
+  "keywords": [
+    "Ford Racing",
+    "Ford Mustang SVT Cobra",
+    "Ford Mustang Cobra Jet"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953197fa9c2c75190aecd"
+  },
+  "filename": "43.jpg",
+  "description": "A sleek blue McLaren Senna GTR race car, showcasing its aggressive design and powerful performance.",
+  "keywords": [
+    "McLaren Senna GTR",
+    "Supercar",
+    "Race Car"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675953197fa9c2c75190aece"
+  },
+  "filename": "46.jpg",
+  "description": "A sleek white Ford GT race car with the number 98 on the side, showcasing its aggressive design and powerful performance.",
+  "keywords": [
+    "Ford GT",
+    "Supercar",
+    "Race Car"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759531a7fa9c2c75190aecf"
+  },
+  "filename": "44.jpg",
+  "description": "A Lamborghini Centenario speeds around a racetrack, showcasing its powerful performance and sleek design.",
+  "keywords": [
+    "Lamborghini Centenario",
+    "Supercar",
+    "Track Day"
+  ]
+}]
