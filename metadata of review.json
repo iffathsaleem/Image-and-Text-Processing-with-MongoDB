@@ -1,0 +1,238 @@
+{
+    "vectorization_process": {
+        "description": "This document describes the process used for vectorizing text data.",
+        "steps": [
+            {
+                "step": "Tokenization",
+                "description": "Splitting text into individual words or tokens.",
+                "tools": [
+                    "nltk.word_tokenize"
+                ]
+            },
+            {
+                "step": "Stop Word Removal",
+                "description": "Removing common words like 'the', 'a', 'is', etc.",
+                "tools": [
+                    "nltk.corpus.stopwords"
+                ]
+            },
+            {
+                "step": "Punctuation Removal",
+                "description": "Removing punctuation marks like '.', ',', '!', etc.",
+                "tools": [
+                    "string.punctuation"
+                ]
+            },
+            {
+                "step": "Vectorization",
+                "description": "Creating numerical representations of text using techniques like Bag-of-Words or TF-IDF.",
+                "tools": [
+                    "sklearn.feature_extraction.text.CountVectorizer",
+                    "sklearn.feature_extraction.text.TfidfVectorizer"
+                ]
+            }
+        ]
+    },
+    "sentiment_labels": [
+        {
+            "filename": "Cars.1.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.3.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.2.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.4.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.5.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.6.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.9.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.8.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.7.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.10.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.11.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.12.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.13.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Fashion.2.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.15.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Cars.14.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Cars.16.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Fashion.3.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.1.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.4.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.8.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.5.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.7.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.6.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.10.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.11.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Fashion.9.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.12.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.13.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.14.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.15.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.16.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Fashion.17.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Travel.1.txt",
+            "sentiment": "negative"
+        },
+        {
+            "filename": "Travel.2.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.3.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.4.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.6.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.8.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.7.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.5.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.9.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.10.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.11.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.13.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.14.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.12.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.16.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.15.txt",
+            "sentiment": "positive"
+        },
+        {
+            "filename": "Travel.17.txt",
+            "sentiment": "positive"
+        }
+    ]
+}

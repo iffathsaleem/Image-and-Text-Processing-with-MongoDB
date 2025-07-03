@@ -1,0 +1,402 @@
+{
+    "5.jpg": {
+        "keywords": [
+            "black shirt",
+            "white trousers",
+            "minimalist fashion"
+        ],
+        "description": "A refined monochrome outfit combining a classic black shirt with tailored white trousers, ideal for a modern city look"
+    },
+    "3.jpg": {
+        "keywords": [
+            "elegant dress",
+            "long sleeves",
+            "neutral tones"
+        ],
+        "description": "A soft, pastel dress featuring long sleeves and a flowy silhouette, styled with a matching handbag and heels."
+    },
+    "10.jpg": {
+        "keywords": [
+            "white outfit",
+            "minimalist style",
+            "casual elegance"
+        ],
+        "description": "A chic, monochromatic outfit with wide-leg white trousers and an asymmetrical sweater, accessorized with a small handbag"
+    },
+    "9.jpg": {
+        "keywords": [
+            "striped shirt",
+            "white trousers",
+            "smart casual"
+        ],
+        "description": "A crisp, airy outfit combining stripes and neutrals, ideal for a light and polished summer look."
+    },
+    "6.jpg": {
+        "keywords": [
+            "black top",
+            "brown trousers",
+            "casual chic"
+        ],
+        "description": "A stylish yet comfortable outfit featuring earthy tones and a relaxed silhouette, perfect for a casual outing"
+    },
+    "4.jpg": {
+        "keywords": [
+            "fashion",
+            "green dress",
+            "collared dress"
+        ],
+        "description": "A sophisticated green dress with a collared neckline and pleated details, emphasizing minimalistic elegance"
+    },
+    "1.jpg": {
+        "keywords": [
+            "beige trench coat",
+            "white heels",
+            "neutral tones"
+        ],
+        "description": "A contemporary and professional outfit featuring neutral tones and tailored layers, perfect for urban sophistication."
+    },
+    "8.jpg": {
+        "keywords": [
+            "preppy style",
+            "oversized cardigan",
+            "plaid pattern"
+        ],
+        "description": "A preppy yet cozy outfit consisting of a tan oversized cardigan with a plaid pattern layered over a black top, paired with high-waisted black tailored trousers. The look is both comfortable and polished"
+    },
+    "7.jpg": {
+        "keywords": [
+            "casual outfit",
+            "green sweater",
+            "blue jeans"
+        ],
+        "description": "A laid-back, casual outfit featuring a forest green oversized sweater tucked into light blue straight-leg jeans, paired with white sneakers. Ideal for a relaxed, everyday look."
+    },
+    "2.jpg": {
+        "keywords": [
+            "smart casual",
+            "sweater vest",
+            "white button-down shirt"
+        ],
+        "description": "A sophisticated smart-casual look with a black sweater vest layered over a crisp white button-down shirt, styled with tailored beige trousers. A classic and versatile outfit suitable for work or casual outings."
+    },
+    "20.jpg": {
+        "keywords": [
+            "Manarola",
+            "Cinque Terre",
+            "Italy"
+        ],
+        "description": "A picturesque view of Manarola, a colorful village perched on a cliff overlooking the Mediterranean Sea in Cinque Terre, Italy."
+    },
+    "16.jpg": {
+        "keywords": [
+            "Colosseum",
+            "Rome",
+            "Italy"
+        ],
+        "description": "A majestic view of the Colosseum, a symbol of ancient Roman architecture and engineering, standing tall against a clear blue sky in Rome, Italy."
+    },
+    "18.jpg": {
+        "keywords": [
+            "Dambulla Cave Temple",
+            "Sri Lanka",
+            "Buddhist Art"
+        ],
+        "description": "A view of the Dambulla Cave Temple in Sri Lanka, showcasing the intricate Buddha statues and colorful murals inside the cave complex."
+    },
+    "17.jpg": {
+        "keywords": [
+            "Jetavanaramaya",
+            "Anuradhapura",
+            "Sri Lanka"
+        ],
+        "description": "A majestic view of the Jetavanaramaya stupa, one of the largest Buddhist stupas in the world, located in Anuradhapura, Sri Lanka."
+    },
+    "11.jpg": {
+        "keywords": [
+            "Taj Mahal",
+            "Agra",
+            "India"
+        ],
+        "description": "A breathtaking view of the Taj Mahal, a white marble mausoleum built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, in Agra, India."
+    },
+    "14.jpg": {
+        "keywords": [
+            "Easter Island",
+            "Moai",
+            "Rapa Nui"
+        ],
+        "description": "A line of majestic Moai statues stand tall against a backdrop of blue sky and ocean on Easter Island, Rapa Nui."
+    },
+    "19.jpg": {
+        "keywords": [
+            "Forbidden City",
+            "Beijing",
+            "China"
+        ],
+        "description": "A majestic view of the Forbidden City, a vast palace complex in Beijing, China, showcasing its impressive architecture and grand scale."
+    },
+    "12.jpg": {
+        "keywords": [
+            "Machu Picchu",
+            "Inca Ruins",
+            "Peru"
+        ],
+        "description": "A breathtaking view of the ancient Inca citadel of Machu Picchu, nestled high in the Andes Mountains of Peru, with dramatic mountain peaks in the background."
+    },
+    "13.jpg": {
+        "keywords": [
+            "Great Sphinx of Giza",
+            "Giza Necropolis",
+            "Pyramid of Giza"
+        ],
+        "description": "A tourist walks towards the iconic Great Sphinx of Giza and the Great Pyramid of Giza, two of the most famous ancient monuments in the world."
+    },
+    "15.jpg": {
+        "keywords": [
+            "Caryatids",
+            "Erechtheion",
+            "Acropolis of Athens"
+        ],
+        "description": "A close-up view of the iconic Caryatids, statues of women supporting the roof of the Erechtheion on the Acropolis of Athens."
+    },
+    "24.jpg": {
+        "keywords": [
+            "Fallow Deer",
+            "Wildlife",
+            "Nature"
+        ],
+        "description": "A majestic Fallow Deer with large antlers, resting peacefully on a lush green meadow."
+    },
+    "21.jpg": {
+        "keywords": [
+            "Red Squirrel",
+            "Squirrel",
+            "Wildlife"
+        ],
+        "description": "A cute red squirrel with a bushy tail, holding a nut in its paws."
+    },
+    "26.jpg": {
+        "keywords": [
+            "Parakeet",
+            "Bird",
+            "Nature"
+        ],
+        "description": "A vibrant green parakeet perched on a branch, enjoying a meal of red berries."
+    },
+    "27.jpg": {
+        "keywords": [
+            "Horse",
+            "Animal",
+            "Nature"
+        ],
+        "description": "A beautiful brown horse standing on a grassy hill with mountains in the background."
+    },
+    "28.jpg": {
+        "keywords": [
+            "Tiger",
+            "Big Cat",
+            "Wildlife"
+        ],
+        "description": "A majestic tiger standing tall, showcasing its powerful build and striking stripes."
+    },
+    "29.jpg": {
+        "keywords": [
+            "Rabbit",
+            "Pet",
+            "Cute"
+        ],
+        "description": "A cute brown rabbit sitting on the grass, looking curious."
+    },
+    "23.jpg": {
+        "keywords": [
+            "Tiger",
+            "Big Cat",
+            "Wildlife"
+        ],
+        "description": "A majestic tiger with piercing eyes, looking directly at the camera."
+    },
+    "25.jpg": {
+        "keywords": [
+            "Giraffe",
+            "African Wildlife",
+            "Savanna"
+        ],
+        "description": "A majestic giraffe with distinctive patterns walking through the African savanna."
+    },
+    "22.jpg": {
+        "keywords": [
+            "Red-breasted Parakeet",
+            "Bird",
+            "Nature"
+        ],
+        "description": "A vibrant Red-breasted Parakeet perched on a branch, showcasing its beautiful plumage."
+    },
+    "30.jpg": {
+        "keywords": [
+            "Sea Turtle",
+            "Marine Life",
+            "Coral Reef"
+        ],
+        "description": "A majestic sea turtle gracefully swimming over a vibrant coral reef."
+    },
+    "38.jpg": {
+        "keywords": [
+            "John William Waterhouse",
+            "The Lady of Shalott",
+            "Victorian art"
+        ],
+        "description": "A captivating painting by John William Waterhouse depicting the tragic tale of the Lady of Shalott from Alfred, Lord Tennyson's poem. The artwork showcases the lady on a boat, weaving a tapestry as she succumbs to her fate."
+    },
+    "36.jpg": {
+        "keywords": [
+            "Girl with a Pearl Earring",
+            "Johannes Vermeer",
+            "Dutch Golden Age"
+        ],
+        "description": "A famous painting by Johannes Vermeer depicting a young girl wearing a pearl earring, known for its intricate details and use of light."
+    },
+    "39.jpg": {
+        "keywords": [
+            "Luncheon of the Boating Party",
+            "Pierre-Auguste Renoir",
+            "Impressionism"
+        ],
+        "description": "A vibrant painting by Pierre-Auguste Renoir depicting a group of friends enjoying a picnic by the Seine River, capturing the essence of Impressionism."
+    },
+    "32.jpg": {
+        "keywords": [
+            "Las Meninas",
+            "Diego Vel\u00e1zquez",
+            "Spanish Golden Age"
+        ],
+        "description": "A famous painting by Diego Vel\u00e1zquez depicting the Spanish royal family in the Royal Palace of Madrid."
+    },
+    "37.jpg": {
+        "keywords": [
+            "Mona Lisa",
+            "Leonardo da Vinci",
+            "Renaissance Painting"
+        ],
+        "description": "A portrait of Lisa del Giocondo, painted by Leonardo da Vinci, known for its enigmatic smile and masterful technique."
+    },
+    "33.jpg": {
+        "keywords": [
+            "Napoleon Bonaparte",
+            "Jacques-Louis David",
+            "Napoleonic Wars"
+        ],
+        "description": "A dramatic painting by Jacques-Louis David depicting Napoleon Bonaparte crossing the Alps on horseback, symbolizing his leadership and military prowess."
+    },
+    "34.jpg": {
+        "keywords": [
+            "Claude Monet",
+            "Water Lilies",
+            "Impressionism"
+        ],
+        "description": "A serene painting by Claude Monet depicting a pond filled with water lilies and a Japanese bridge, capturing the essence of Impressionism."
+    },
+    "31.jpg": {
+        "keywords": [
+            "The Starry Night",
+            "Vincent van Gogh",
+            "Post-Impressionism"
+        ],
+        "description": "A vibrant and swirling depiction of a starry night sky over a small village, painted by Vincent van Gogh in his distinctive Post-Impressionist style."
+    },
+    "35.jpg": {
+        "keywords": [
+            "The Swing",
+            "Jean-Honor\u00e9 Fragonard",
+            "Rococo Painting"
+        ],
+        "description": "A playful and romantic painting by Jean-Honor\u00e9 Fragonard depicting a young woman on a swing, surrounded by lush greenery and playful figures."
+    },
+    "40.jpg": {
+        "keywords": [
+            "Caravaggio",
+            "The Calling of Saint Matthew",
+            "Baroque Painting"
+        ],
+        "description": "A dramatic painting by Caravaggio depicting the moment when Jesus calls Matthew, a tax collector, to become one of his apostles."
+    },
+    "47.jpg": {
+        "keywords": [
+            "Novitec N-Largo McLaren 720S",
+            "Supercar",
+            "Luxury"
+        ],
+        "description": "A stunning golden Novitec N-Largo McLaren 720S, a high-performance supercar with aggressive bodywork and a powerful engine."
+    },
+    "41.jpg": {
+        "keywords": [
+            "Porsche Taycan",
+            "Electric car",
+            "Sports car"
+        ],
+        "description": "A white Porsche Taycan electric sports car speeding around a racetrack, showcasing its sleek design and powerful performance."
+    },
+    "42.jpg": {
+        "keywords": [
+            "Ferrari 458 Italia",
+            "Supercar",
+            "Race Track"
+        ],
+        "description": "A sleek white Ferrari 458 Italia speeding around a racetrack, showcasing its powerful performance and iconic design."
+    },
+    "49.jpg": {
+        "keywords": [
+            "Bugatti Veyron",
+            "Supercar",
+            "Luxury"
+        ],
+        "description": "A sleek blue Bugatti Veyron, a high-performance supercar with a powerful engine and distinctive design."
+    },
+    "48.jpg": {
+        "keywords": [
+            "Chevrolet Camaro Concept",
+            "Concept Car",
+            "Auto Show"
+        ],
+        "description": "A vibrant orange Chevrolet Camaro concept car showcased at an auto show, with the iconic Chevrolet logo prominently displayed."
+    },
+    "45.jpg": {
+        "keywords": [
+            "Lamborghini Huracan EVO Spyder",
+            "Supercar",
+            "Convertible"
+        ],
+        "description": "A vibrant green Lamborghini Huracan EVO Spyder convertible, showcasing its sleek design and powerful performance."
+    },
+    "50.jpg": {
+        "keywords": [
+            "Ford Racing",
+            "Ford Mustang SVT Cobra",
+            "Ford Mustang Cobra Jet"
+        ],
+        "description": "An image showcasing the heritage of Ford Racing, featuring iconic models like the Ford Mustang SVT Cobra and Ford Mustang Cobra Jet."
+    },
+    "43.jpg": {
+        "keywords": [
+            "McLaren Senna GTR",
+            "Supercar",
+            "Race Car"
+        ],
+        "description": "A sleek blue McLaren Senna GTR race car, showcasing its aggressive design and powerful performance."
+    },
+    "46.jpg": {
+        "keywords": [
+            "Ford GT",
+            "Supercar",
+            "Race Car"
+        ],
+        "description": "A sleek white Ford GT race car with the number 98 on the side, showcasing its aggressive design and powerful performance."
+    },
+    "44.jpg": {
+        "keywords": [
+            "Lamborghini Centenario",
+            "Supercar",
+            "Track Day"
+        ],
+        "description": "A Lamborghini Centenario speeds around a racetrack, showcasing its powerful performance and sleek design."
+    }
+}
